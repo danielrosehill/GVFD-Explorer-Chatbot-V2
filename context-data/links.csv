@@ -1,0 +1,7 @@
+description,description,url,nature
+IFVI Homepage,Homepage of the IFVI,https://ifvi.org,Official
+GHG Emissions Topic Methodology,Provides details about the GHG emissions topic methodology,https://ifvi.org/methodology/environmental-topic-methodology/greenhouse-gas-ghg-emissions-topic-methodology/,Official
+Water Consumption Topic Methodology,Provides details about the water consumption topic methodology,https://ifvi.org/methodology/environmental-topic-methodology/water-consumption-topic-methodology/,Official
+Interim methodologies,Provides details about the IFVI's interim methodologies,https://ifvi.org/methodology/environmental-topic-methodology/interim-methodologies/,Official
+Hugging Face repository,Derivative (non-official) version of the IFVI dataset in CSV and JSON for data analysis,https://huggingface.co/datasets/danielrosehill/ifvi_valuefactors_deriv,Unofficial
+GVFD Download Form,Download form for the IFVI Global Value Factors Database (GVFD),https://ifvi.org/methodology/environmental-topic-methodology/interim-methodologies/download-form-global-value-factor-database/,Official
